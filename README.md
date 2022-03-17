@@ -1,4 +1,4 @@
-# i2c-Haberlesme-Protokolu
+# i2c-Haberlesme
 
 MPU6050 entegresini geliştirme kartınıza bağlayınız.
 
